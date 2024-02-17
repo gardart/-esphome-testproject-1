@@ -1,4 +1,4 @@
-# These substitutions allow the end user to override certain values
+# These substitutions allow the end user to override certain valuesd
 substitutions:
   name: "project-template"
 
